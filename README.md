@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/chetnapriyadarshini"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:chetna.priya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.freecodecamp.com/chetnapriyadarshini"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/></a>
+  <a href="https://medium.com/@chetna.priya"><img src="[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chetna.priya)"/></a>
 </p>
 
 ---
