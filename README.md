@@ -87,10 +87,11 @@ I took a deliberate break to deepen my foundations, completing a **Postgraduate 
 | [Fine-Tuning-Large-Language-Models](https://github.com/chetnapriyadarshini/Fine-Tuning-Large-Language-Models) | End-to-end fine-tuning of a pre-trained LLM on a customer experience dataset — instruction formatting, training configuration, and before/after inference comparison | HuggingFace Transformers · PEFT · PyTorch |
 | [LoRA\_fine\_tuning\_on\_Bloom](https://github.com/chetnapriyadarshini/LoRA_fine_tuning_on_Bloom) | LoRA fine-tuning on BLOOM 1B — demonstrates low-rank adapter injection, trainable parameter reduction, and efficient adaptation of a 1B-parameter model | HuggingFace PEFT · PyTorch · bitsandbytes |
 
-#### Sequence Modelling & Semantics
+#### Sequence Modelling, NER & Semantics
 
 | Repository | Description | Tools |
 |---|---|---|
+| [Healthcare\_Entity\_Recognition](https://github.com/chetnapriyadarshini/Healthcare_Entity_Recognition) | CRF-based Named Entity Recognition on patient-doctor interaction logs — extracts disease and treatment entities using hand-crafted token features, outputs a structured disease-to-treatment dictionary | sklearn-crfsuite · spaCy · nltk |
 | [BERT\_finetuning](https://github.com/chetnapriyadarshini/BERT_finetuning) | Fine-tuning pre-trained BERT for sentence pair classification tasks including NLI and semantic textual similarity | HuggingFace Transformers · PyTorch |
 | [NMT\_Encoder\_Decoder\_Attention\_Beam](https://github.com/chetnapriyadarshini/NMT_Encoder_Decoder_Attention_Beam) | Hindi-to-English neural machine translation with GRU encoder–decoder, Bahdanau attention, and beam search decoding | TensorFlow · Keras |
 | [TensorFLow\_RNN\_language\_translation](https://github.com/chetnapriyadarshini/TensorFLow_RNN_language_translation) | Language translation using a custom RNN encoder–decoder and loss function built from scratch with explicit GradientTape training | TensorFlow |
