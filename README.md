@@ -114,7 +114,9 @@ I took a deliberate break to deepen my foundations, completing a **Postgraduate 
 
 | Repository | Description | Tools |
 |---|---|---|
+| [GestureRecognition](https://github.com/chetnapriyadarshini/GestureRecognition) | Video-based hand gesture classifier for smart TV control — compares CNN+RNN (with transfer learning) vs Conv3D architectures on 5-class gesture sequences, with a custom data generator | TensorFlow · Keras · OpenCV |
 | [Melanoma\_Detection](https://github.com/chetnapriyadarshini/Melanoma_Detection) | Multiclass skin lesion classifier using a custom CNN trained on 2,357 ISIC dermoscopic images, with data augmentation and class rebalancing to detect melanoma | TensorFlow · Keras · Augmentor |
+| [Bike-Share-Neural-Network](https://github.com/chetnapriyadarshini/Bike-Share-Neural-Network) | Feedforward neural network built from scratch in NumPy — manual implementation of forward pass, backpropagation, and gradient descent — to predict bike-sharing demand (Udacity Deep Learning Nanodegree) | NumPy · pandas |
 
 ---
 
