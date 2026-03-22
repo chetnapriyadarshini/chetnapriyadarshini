@@ -18,7 +18,7 @@
 I'm an engineer with **10+ years of experience** across automotive, healthcare, and gaming domains — drawing on a background in mobile and backend engineering to build pragmatic, production-ready AI/ML systems.
 
 Most recently at **Cerence AI**, I spearheaded integration and delivery of GPT-based capabilities for a Land Rover program using a hybrid LLM architecture combining domain-specialized responses and RAG, resulting in ~$0.5M in revenue impact.
-Before that, at **Outset Medical**, I developed predictive models for maintenance forecasting and treatment failure detection using curated device telemetry and in-house labeled datasets. Leveraged tree-based algorithms (XGBoost) to identify anomalous patterns and enable early risk detection, improving product reliability and patient safety. Models were developed and evaluated in a local environment for internal decision support. This helped treatment outcomes by 30% and maintenance outcomes by 15%.
+Before that, at **Outset Medical**, I developed predictive models for maintenance forecasting and treatment failure detection using curated device telemetry and in-house labeled datasets. Leveraged tree-based algorithms (XGBoost) to identify anomalous patterns and enable early risk detection, improving product reliability and patient safety. This helped treatment outcomes by 30% and maintenance outcomes by 15%.
 
 I took a deliberate break to deepen my foundations, completing a **Postgraduate Programme in AI/ML at IIIT Bangalore** and currently pursuing an **MS in AI/ML at Liverpool John Moores University**. I bring strong engineering judgment, production experience, and a pragmatic approach to applying ML in real-world systems.
 
@@ -57,15 +57,37 @@ I took a deliberate break to deepen my foundations, completing a **Postgraduate 
 
 ## 🗂️ Projects
 
+### 🎓 MS Thesis — In Progress
+
+> **Liverpool John Moores University · MS Artificial Intelligence · Deadline: July 2026**
+
+| Repository | Description | Status |
+|---|---|---|
+| [Thesis\_PeFT](https://github.com/chetnapriyadarshini/Thesis_PeFT) | Comparative study of LoRA vs ReFT (PEFT methods) for mental health NLP — classification (DistilBERT on SWMH/IMDB) and empathetic response generation (Llama 3.2 on Empathetic Dialogues), evaluated on F1, AUC, BERTScore, EPIC, and LLM-as-Judge | 🔄 Active |
+
+**Stack:** PyTorch · HuggingFace PEFT · PyReFT · Unsloth · W&B · Presidio · Docker
+
+---
+
 ### 🤖 Generative AI
 
 | Repository | Description | Tools |
 |---|---|---|
-| [Insurance\_RAG\_agent](https://github.com/chetnapriyadarshini/Insurance_RAG_agent) | End-to-end RAG pipeline for insurance policy Q&A — document ingestion, chunking, embedding, vector store indexing, semantic retrieval, and grounded LLM answer generation | LangChain · FAISS · OpenAI · Python |
+| [Insurance\_RAG\_agent](https://github.com/chetnapriyadarshini/Insurance_RAG_agent) | End-to-end RAG pipeline for insurance policy Q&A — document ingestion, chunking, embedding, vector store indexing, semantic retrieval, and grounded LLM answer generation | LangChain · FAISS · OpenAI |
+| [Llama\_Index\_Query\_Engine](https://github.com/chetnapriyadarshini/Llama_Index_Query_Engine) | Advanced QA agent using LlamaIndex's SubQuestionQueryEngine — decomposes complex multi-part queries into targeted sub-questions, retrieves per-sub-question context, and synthesises a unified grounded answer | LlamaIndex · OpenAI |
 
 ---
 
 ### 🗣️ Natural Language Processing
+
+#### LLM Fine-Tuning
+
+| Repository | Description | Tools |
+|---|---|---|
+| [Fine-Tuning-Large-Language-Models](https://github.com/chetnapriyadarshini/Fine-Tuning-Large-Language-Models) | End-to-end fine-tuning of a pre-trained LLM on a customer experience dataset — instruction formatting, training configuration, and before/after inference comparison | HuggingFace Transformers · PEFT · PyTorch |
+| [LoRA\_fine\_tuning\_on\_Bloom](https://github.com/chetnapriyadarshini/LoRA_fine_tuning_on_Bloom) | LoRA fine-tuning on BLOOM 1B — demonstrates low-rank adapter injection, trainable parameter reduction, and efficient adaptation of a 1B-parameter model | HuggingFace PEFT · PyTorch · bitsandbytes |
+
+#### Sequence Modelling & Semantics
 
 | Repository | Description | Tools |
 |---|---|---|
@@ -127,11 +149,11 @@ I took a deliberate break to deepen my foundations, completing a **Postgraduate 
 | Repository | Description | Tools |
 |---|---|---|
 | [Capstone-Project](https://github.com/chetnapriyadarshini/Capstone-Project) | Open-source podcast app — ExoPlayer 2.x audio streaming and iTunes Search API for podcast discovery across categories | ExoPlayer · iTunes API · Java |
-| [WeatherBuddy](https://github.com/chetnapriyadarshini/WeatherBuddy) | 14-day weather forecast app with Google Maps integration, OpenWeatherMap API, GPS location detection, and two home screen widgets (today + weekly forecast) | OpenWeatherMap API · Google Maps · Java |
+| [WeatherBuddy](https://github.com/chetnapriyadarshini/WeatherBuddy) | 14-day weather forecast app with Google Maps integration, OpenWeatherMap API, GPS location detection, and two home screen widgets | OpenWeatherMap API · Google Maps · Java |
 | [MovieMagic](https://github.com/chetnapriyadarshini/MovieMagic) | Tablet-optimised movie discovery app with grid browsing, trailer playback, user reviews, and offline SQLite favourites via TheMovieDB API | TheMovieDB API · SQLite · Java |
 | [MakeAppMaterial](https://github.com/chetnapriyadarshini/MakeAppMaterial) | Material Design overhaul of a news reader — collapsing toolbars, shared element transitions, coordinated motion, and immersive imagery via CoordinatorLayout | Material Design · CoordinatorLayout · Java |
 | [StockHawk](https://github.com/chetnapriyadarshini/StockHawk) | Stock portfolio tracker with interactive historical charts, Yahoo Finance API, home screen widget, TalkBack accessibility support, and localisation | MPAndroidChart · Yahoo Finance API · Java |
-| [Build-It-Bigger](https://github.com/chetnapriyadarshini/Build-It-Bigger) | Gradle build engineering demo — multi-module Android project with free/paid build flavors, Google Cloud Endpoints backend, and AdMob ad integration in the free variant | Gradle · Google Cloud Endpoints · AdMob · Java |
+| [Build-It-Bigger](https://github.com/chetnapriyadarshini/Build-It-Bigger) | Gradle build engineering demo — multi-module Android project with free/paid build flavors, Google Cloud Endpoints backend, and AdMob ad integration | Gradle · Google Cloud Endpoints · AdMob · Java |
 
 ---
 
