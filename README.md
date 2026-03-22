@@ -122,11 +122,16 @@ I took a deliberate break to deepen my foundations, completing a **Postgraduate 
 
 ### 📱 Android
 
-> Android projects from my years of mobile engineering — covering healthcare device UIs, gaming, and consumer applications.
+> Production-quality Android applications built during the Udacity Android Developer Nanodegree (2016–2017), demonstrating REST API integration, Material Design, multi-module architecture, local persistence, and accessibility. These projects reflect the engineering foundations that underpin my current AI/ML work.
 
 | Repository | Description | Tools |
 |---|---|---|
-| *(Add your Android repos here)* | | |
+| [Capstone-Project](https://github.com/chetnapriyadarshini/Capstone-Project) | Open-source podcast app — ExoPlayer 2.x audio streaming and iTunes Search API for podcast discovery across categories | ExoPlayer · iTunes API · Java |
+| [WeatherBuddy](https://github.com/chetnapriyadarshini/WeatherBuddy) | 14-day weather forecast app with Google Maps integration, OpenWeatherMap API, GPS location detection, and two home screen widgets (today + weekly forecast) | OpenWeatherMap API · Google Maps · Java |
+| [MovieMagic](https://github.com/chetnapriyadarshini/MovieMagic) | Tablet-optimised movie discovery app with grid browsing, trailer playback, user reviews, and offline SQLite favourites via TheMovieDB API | TheMovieDB API · SQLite · Java |
+| [MakeAppMaterial](https://github.com/chetnapriyadarshini/MakeAppMaterial) | Material Design overhaul of a news reader — collapsing toolbars, shared element transitions, coordinated motion, and immersive imagery via CoordinatorLayout | Material Design · CoordinatorLayout · Java |
+| [StockHawk](https://github.com/chetnapriyadarshini/StockHawk) | Stock portfolio tracker with interactive historical charts, Yahoo Finance API, home screen widget, TalkBack accessibility support, and localisation | MPAndroidChart · Yahoo Finance API · Java |
+| [Build-It-Bigger](https://github.com/chetnapriyadarshini/Build-It-Bigger) | Gradle build engineering demo — multi-module Android project with free/paid build flavors, Google Cloud Endpoints backend, and AdMob ad integration in the free variant | Gradle · Google Cloud Endpoints · AdMob · Java |
 
 ---
 
