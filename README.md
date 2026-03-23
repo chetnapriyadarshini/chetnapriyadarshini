@@ -63,7 +63,7 @@
 
   | Repository | Description | Status |
   |---|---|---|
-  | [Thesis\_PeFT](https://github.com/chetnapriyadarshini/Thesis_PeFT) | Comparative study of LoRA vs ReFT (PEFT methods) for mental health NLP — classification (DistilBERT on SWMH/IMDB) and empathetic response generation (Llama 3.2 on Empathetic Dialogues), evaluated on F1, AUC, BERTScore, EPIC, and LLM-as-Judge | 🔄 Active |
+  | [Thesis\_PeFT](https://github.com/chetnapriyadarshini/Thesis_PeFT) | Comparative study of LoRA vs ReFT (PEFT methods) for mental health NLP — classification (DistilBERT on SWMH) and empathetic response generation (Llama 3.2 on Empathetic Dialogues), evaluated on F1, AUC, BERTScore, EPIC, and LLM-as-Judge | 🔄 Active |
 
   **Stack:** PyTorch · HuggingFace PEFT · PyReFT · Unsloth · W&B · Presidio · Docker
 
