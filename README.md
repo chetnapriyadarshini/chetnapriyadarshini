@@ -163,7 +163,7 @@
   | Qualification | Institution | Year |
   |---|---|---|
   | MS, Artificial Intelligence | Liverpool John Moores University | 2025 – 2026 |
-  | PG Programme, AI & ML | IIIT Bangalore × upGrad | 2024 – 2025 |
+  | PG Programme, AI & ML | IIIT Bangalore | 2024 – 2025 |
   | Deep Learning Foundations Nanodegree | Udacity | 2017 |
   | Android Developer Nanodegree | Udacity | 2016 – 2017 |
   | BTech, Computer Science | Rajasthan Technical University | 2006 – 2010 |
